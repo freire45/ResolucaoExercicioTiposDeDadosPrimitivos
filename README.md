@@ -32,3 +32,7 @@
 | -99.8    | Real              |
 | .V.      | Lógico            |
 | 1000     | Inteiro, Real     |
+
+Autor: Erick Leite Freire<br>
+Criado em: 04-12-2023<br>
+Site: [Escola do Autodidata](https://www.escoladoautodidata.com.br)<br>
